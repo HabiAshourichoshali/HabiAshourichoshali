@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Habibeh Ashouri Choshali, Ph.D.
 
-<!--
-**HabiAshourichoshali/HabiAshourichoshali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Data Scientist | Data Engineer | Applied Scientist  
+🧠 Passionate about solving real-world problems through data-driven, scalable solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projects
+
+- [`philter-ucsf`](https://github.com/HabiAshourichoshali/philter-ucsf)  
+  Fork of UCSF’s clinical text de-identification system based on rule-based NLP pipelines.
+
+- [`Deployed-face-mask-classifier`](https://github.com/HabiAshourichoshali/Deployed-face-mask-classifier)  
+  Interactive ML demo in a Jupyter notebook for real-time face mask detection.
+
+- [`Face_Mask_Detection`](https://github.com/HabiAshourichoshali/Face_Mask_Detection)  
+  Comparison of classical MLP and deep learning (CNN with transfer learning) approaches for image classification.
+
+
+---
+
+## 🔒 Private Contributions
+
+- **`de-id_stable1`** – UCSF Bakar Computational Health Sciences Institute (BCHSI)  
+  Contributed to a private clinical text de-identification repository at UCSF focused on enhancing patient privacy in EHR research.    
+  _Note: This repository is private and not publicly viewable, but contributions can be verified upon request._
+
+---
+
+
