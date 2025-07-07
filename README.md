@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Habibeh Ashouri Choshali, Ph.D.
+# Habibeh Ashouri Choshali, Ph.D.
 
 🔬 Data Scientist | Data Engineer | Applied Scientist  
 🧠 Passionate about solving real-world problems through data-driven, scalable solutions.
